@@ -21,6 +21,40 @@
 
 ---
 
+
+  <!--Line-->
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900"> 
+
+  <h3>🌟 GitHub Trophies</h3>
+  <p>
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+      <img src="https://github-profile-trophy.vercel.app/?username=VAIBHAVBABELE&theme=dracula&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
+    </a>
+  </p>
+  
+  <!--Line-->
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900"> 
+  
+  <h3>📊 GitHub Stats</h3>
+  <p>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VAIBHAVBABELE&theme=react" alt="Profile Details" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VAIBHAVBABELE&theme=react" alt="Repos per Language" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=VAIBHAVBABELE&theme=react" alt="Most Commit Language" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=VAIBHAVBABELE&theme=react" alt="Stats" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=VAIBHAVBABELE&theme=react&utcOffset=8" alt="Productive Time" />
+  </p>
+
+  <p>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=VAIBHAVBABELE&theme=radical" alt="GitHub Streak" />
+  </p>
+  
+  <!--Line-->
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900"> 
+
+  [![VAIBHAVBABELE's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=VAIBHAVBABELE&theme=Dark)](https://github.com/JeremyTsaii/leetcode-stats)
+
+ </div>
+ 
 ### 🧑‍💻 Tech Stack
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" title="HTML5"/>
@@ -48,17 +82,7 @@
 
 ---
 
-### 📈 GitHub Stats
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=vaibhavbabele&show_icons=true&theme=radical" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavbabele&layout=compact&theme=radical" />
-</p>
 
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=vaibhavbabele&theme=radical" />
-</p>
-
----
 
 ### 🧩 Fun Facts
 - Solved **100+ LeetCode** problems  
